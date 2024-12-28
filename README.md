@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Utkarsh Mishra
 - 👀 I’m interested in Data Analysis/BI development/ETL
-- Proficient in SQL, PowerBI, Excel, SSIS, SSRS, R
+- 🔧 Proficient in SQL, PowerBI, Excel, SSIS, SSRS, R
 - 🌱 I’m currently learning Fabric and Azure
 - 📫 How to reach me ...@ utkarsh.datawhiz993@gmail.com
 
