@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Analysis/BI development/ETL
 - 🔧 Proficient in SQL, PowerBI, Excel, SSIS, SSRS, R
 - 🌱 I’m currently learning Fabric and Azure
+- 📊 Passionate about providing imapctful and data-driven business solutions
 - 📫 How to reach me ...@ utkarsh.datawhiz993@gmail.com
 
 <!---
